@@ -1,4 +1,8 @@
 /* Add a black background color to the top navigation bar */
+.logo{
+    text-decoration: none;
+}
+
 .topnav {
     overflow: hidden;
     background-color: #e9e9e9;
